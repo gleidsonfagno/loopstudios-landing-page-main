@@ -1,0 +1,29 @@
+footer{
+    max-width: 1200px;
+    margin: auto;
+    background: #ccc;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.conteier-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.container-ico{
+    display: flex;
+    flex-direction: row;
+}
+
+.icones{
+    /* display: flex; */
+    flex-direction: column;
+}
+
+.icones-1{
+    list-style-type: none;
+    display: flex;
+    gap: 1.5rem;
+}
